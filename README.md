@@ -15,3 +15,6 @@ I am using anaconda software to scrape the data. The prerequisites to scrape the
 
 ## Conclusion
 Retrieval of large datasets from webpages can be easily done due to web scraping. You can try different websites and attempt to extract the information. But, do not forget not all sites give permission to scrap the data. The easiest sites to scrap the data are : flipkart, amazon, trip advisor etc. Do try to extract the data of these sites on your own and soon you will be an expert.
+
+## Check out my blog for additional information:
+https://medium.com/@soodakriti175/goodreads-web-scraping-92345b620f9c
